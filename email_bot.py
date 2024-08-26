@@ -9,7 +9,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Configuration
-BOT_TOKEN = '7517649657:AAEDy7hZCTst7Bv4elIEatr7AGc0Gg9TKhw'
+BOT_TOKEN = 'Your_Bot_Token'
 BOT_NAME = 'Pikachu_MusicBot'
 BOT_DESCRIPTION = 'I am a Pikachu_MusicBot. Use /search <song> to find and get audio files for your favorite songs.'
 
