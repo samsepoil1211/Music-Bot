@@ -9,7 +9,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Configuration
-BOT_TOKEN = 'Your_Bot_Token'
+BOT_TOKEN = 'Your_Bot_Token' #add your telegram bot token here
 BOT_NAME = 'Pikachu_MusicBot'
 BOT_DESCRIPTION = 'I am a Pikachu_MusicBot. Use /search <song> to find and get audio files for your favorite songs.'
 
